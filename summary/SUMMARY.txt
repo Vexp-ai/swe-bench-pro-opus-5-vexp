@@ -1,0 +1,17 @@
+Opus 5 + vexp 3.1.1 on SWE-bench Pro (public set, 731 instances) - computed from this package's files
+resolved 597/731 = 81.7%  (Wilson 95% CI 78.7-84.3) | sessions 731 (1 ended at the turn cap, patch kept) | evaluated 730 (1 empty patch, counted as not resolved)
+cost/instance mean $1.52, median $1.12, total $1111.55 | turns mean 31.6
+orientation seed injected in 624/731 sessions
+
+per repo:
+  NodeBB/NodeBB                   39/44   88.6%  $1.66
+  ansible/ansible                 85/96   88.5%  $1.85
+  element-hq/element-web          41/56   73.2%  $1.36
+  flipt-io/flipt                  54/85   63.5%  $1.42
+  future-architect/vuls           54/62   87.1%  $1.37
+  gravitational/teleport          59/76   77.6%  $1.76
+  internetarchive/openlibrary     80/91   87.9%  $1.30
+  navidrome/navidrome             50/57   87.7%  $1.29
+  protonmail/webclients           48/65   73.8%  $1.91
+  qutebrowser/qutebrowser         67/79   84.8%  $1.23
+  tutao/tutanota                  20/20  100.0%  $1.61
